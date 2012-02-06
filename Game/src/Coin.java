@@ -6,8 +6,8 @@ public class Coin {
 	public boolean is = true;
 	
 	public Coin (int mx, int my) {
-		x=mx+12;
-		y=my+12;
+		x = mx+12;
+		y = my+12;
 		Coin = new Rectangle(x, y, 25, 25);
 	}
 	
