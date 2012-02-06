@@ -8,6 +8,7 @@ public class bullet {
 	public boolean mRight = false;
 	public Rectangle bullet;
 	public int speed;
+	public int lawl;
 	
 	public boolean hit = false;
 	
