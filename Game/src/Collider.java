@@ -8,7 +8,7 @@ public class Collider {
 	}
 
 	public static Point[] getPoints (Rectangle rect) {
-		Point pt[] = new Point[(rect.height*rect.width)];
+		Point pt[] = new Point[(rect.height * rect.width)];
 		int c = 0;
 		
 		for(int y = 0; y < (rect.height); y++) {
